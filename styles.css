@@ -8,12 +8,12 @@
     width: 100vw;
     height: 100vh;
     max-width: 100%;
-    padding: 0 1%;
+    padding: 0 20%;
 }
 
 .imageWrapper div {
     float: left;
-    width: 32%;
+    width: 25%;
     aspect-ratio: 1;
     margin-right: 10px;
     margin-bottom: 10px;
